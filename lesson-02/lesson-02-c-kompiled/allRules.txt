@@ -1,0 +1,3 @@
+e9a710d8d1ca5c799420161879cbbff926de45a5bddd820d646f51d43eb67e62 /nix/store/pi3lx7kzm07k69bb0v88868bp32bg8qq-k-5.5.67-38fb25ec93cdf9ae1dc32e1525e0874960595149-maven/include/kframework/builtin/domains.md:559:8
+17ad733fc0675acae3b94101ddc7f494be1595d1fa743dca20acc72a6b7d0da6 /home/asavienko/Projects/runtime/ktutorial-hw/lesson-02-c.k:8:8
+ae8fda091c23dbbb9e8f051a9646dedc6baf70e962850e5839e6c1a31594f214 /home/asavienko/Projects/runtime/ktutorial-hw/lesson-02-c.k:9:8

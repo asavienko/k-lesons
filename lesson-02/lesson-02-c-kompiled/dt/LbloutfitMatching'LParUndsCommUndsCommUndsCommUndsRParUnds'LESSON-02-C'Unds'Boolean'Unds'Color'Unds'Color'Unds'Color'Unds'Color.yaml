@@ -1,0 +1,50 @@
+default: null
+specializations:
+- - LblBlack'LParRParUnds'LESSON-02-C'Unds'Color{}
+  - default: fail
+    specializations:
+    - - LblBlack'LParRParUnds'LESSON-02-C'Unds'Color{}
+      - default: fail
+        specializations:
+        - - LblBlack'LParRParUnds'LESSON-02-C'Unds'Color{}
+          - default: fail
+            specializations:
+            - - LblBlack'LParRParUnds'LESSON-02-C'Unds'Color{}
+              - action:
+                - 162
+                - []
+              - []
+            sort: STRING.String
+            occurrence: &id001 ['1']
+          - []
+        sort: STRING.String
+        occurrence: &id002 ['2']
+      - []
+    sort: STRING.String
+    occurrence: &id003 ['3']
+  - []
+- - LblWhite'LParRParUnds'LESSON-02-C'Unds'Color{}
+  - default: fail
+    specializations:
+    - - LblWhite'LParRParUnds'LESSON-02-C'Unds'Color{}
+      - default: fail
+        specializations:
+        - - LblWhite'LParRParUnds'LESSON-02-C'Unds'Color{}
+          - default: fail
+            specializations:
+            - - LblWhite'LParRParUnds'LESSON-02-C'Unds'Color{}
+              - action:
+                - 163
+                - []
+              - []
+            sort: STRING.String
+            occurrence: *id001
+          - []
+        sort: STRING.String
+        occurrence: *id002
+      - []
+    sort: STRING.String
+    occurrence: *id003
+  - []
+sort: STRING.String
+occurrence: ['4']

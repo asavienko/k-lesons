@@ -1,0 +1,4 @@
+    outfitMatching(White(), White(), White(), White())
+    outfitMatching(Black(), Black(), Black(), Black())
+    outfitMatching(Black(), White(), Black(), White())
+    outfitMatching(Black(), White())
